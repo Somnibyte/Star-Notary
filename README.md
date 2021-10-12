@@ -1,9 +1,8 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-### ToDo
-This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
-
+### Token Address
+https://rinkeby.etherscan.io/address/0x36cc6caecee7eb86826d4c3c383e7b64c7be1a2a
 
 
 ### Dependencies
